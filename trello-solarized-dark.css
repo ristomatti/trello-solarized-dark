@@ -1,0 +1,109 @@
+@-moz-document url-prefix("https://trello.com") {
+/**
+* Trello Solarized Dark Grey v0.1 (2016-03-06)
+*
+* https://userstyles.org/styles/125265/trello-solarized-dark-grey
+* https://github.com/ristomatti/trello-solarized-dark
+*
+* The MIT License (MIT)
+* https://opensource.org/licenses/MIT
+*
+* (c) 2016 Ristomatti Airo <ristomatti@kallio.io>*
+*/
+
+/* Main area */
+body {
+	color: #eee8d5;
+	background-color: #141414 !important;
+}
+
+/* Board title */
+.board-header-btn {
+	color: #eee8d5;
+}
+
+/* Lists */
+.list {
+	color: #eee8d5;
+	background-color: #1b1b1b;
+}
+
+/* Cards */
+.list-card {
+	background-color: #272727;
+	border-bottom: none;
+}
+
+/* Card titles */
+.list-card-title {
+	color: #93a1a1 !important;
+}
+
+/* Board title */
+.board-header-btn {
+	color: #eee8d5;
+}
+
+/* Right side menu */
+.board-menu {
+	color: #93a1a1 !important;
+	background-color: #272727;
+}
+.board-menu a.board-menu-section-header {
+	color: #eee8d5;
+}
+.board-menu a {
+	text-decoration: none;
+	color: #268bd2;
+}
+hr {
+	background: #93a1a1 !important;
+}
+
+/* Label colors */
+.card-label-green {
+	background-color: #859900;
+}
+.card-label-yellow {
+	background-color: #b58900;
+}
+.card-label-purple {
+	background-color: #6c71c4;
+}
+.card-label-blue {
+	background-color: #268bd2;
+}
+.card-label-red {
+	background-color: #dc322f;
+}
+.card-label-pink {
+	background-color: #d33682;
+}
+.card-label-black {
+	background-color: #999;
+}
+.card-label-orange {
+	background-color: #cb4b16;
+}
+.card-label-cyan {
+	background-color: #2aa198;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+	max-width: 10px !important;
+	max-height: 10px !important;
+	background: #181818 !important;
+}
+::-webkit-scrollbar-track,
+::-webkit-scrollbar-corner {
+	background: #181818 !important;
+}
+::-webkit-scrollbar-thumb {
+	border-radius: 5px !important;
+	background: rgba(80, 80, 80, .6) !important;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: rgba(96, 96, 96, .6) !important;
+}
+}
