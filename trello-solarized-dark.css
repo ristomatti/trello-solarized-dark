@@ -1,6 +1,6 @@
-@-moz-document url-prefix("https://trello.com") {
+@-moz-document regexp("^https?://trello.com/[cb]{1}.*$") {
 /**
-* Trello Solarized Dark Grey v0.1 (2016-03-06)
+* Trello Solarized Dark Grey v0.2 (2016-05-24)
 *
 * https://userstyles.org/styles/125265/trello-solarized-dark-grey
 * https://github.com/ristomatti/trello-solarized-dark
@@ -58,6 +58,11 @@ body {
 }
 hr {
 	background: #93a1a1 !important;
+}
+
+/* Card details */
+.card-detail-window {
+	background-color: #212121;
 }
 
 /* Label colors */

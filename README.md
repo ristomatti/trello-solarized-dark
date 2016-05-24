@@ -13,6 +13,10 @@ Trello board style inspired by Solarized Dark color palette designed by Ethan Sc
 
 ## Changelog
 
+#### Version 0.2
+* Only match Trello board and card edit views
+* Card edit background color
+
 #### Version 0.1
 * Dark grey board background
 * Card title color
