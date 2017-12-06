@@ -1,6 +1,6 @@
 @-moz-document url("https://trello.com/"), regexp("^https?://trello.com/[cb]{1}.*$") {
 /**
-* Trello Solarized Dark Grey v0.3 (2016-11-10)
+* Trello Solarized Dark Grey v0.4 (2017-12-06)
 *
 * https://userstyles.org/styles/125265/trello-solarized-dark-grey
 * https://github.com/ristomatti/trello-solarized-dark
@@ -8,7 +8,7 @@
 * The MIT License (MIT)
 * https://opensource.org/licenses/MIT
 *
-* (c) 2016 Ristomatti Airo <ristomatti@kallio.io>
+* (c) 2017 Ristomatti Airo <ristomatti@kallio.io>
 */
 
 /* Main area */
@@ -68,6 +68,11 @@ body {
 /* List card header */
 .list-header-name {
  	color: #93a1a1 !important;
+}
+
+/* List card input */
+.list-card-composer-textarea {
+	color: #93a1a1 !important;
 }
 
 /* List card hover */
