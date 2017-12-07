@@ -16,9 +16,13 @@ preview](https://raw.githubusercontent.com/ristomatti/trello-solarized-dark/mast
 
 ## Changelog
 
+#### Version 0.5
+
+- Map lime color to base00
+
 #### Version 0.4
 
-- Fix card input field color 
+- Fix card input field color
 
 #### Version 0.3
 - Support different background colors

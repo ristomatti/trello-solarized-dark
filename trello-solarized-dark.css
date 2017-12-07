@@ -1,6 +1,6 @@
 @-moz-document url("https://trello.com/"), regexp("^https?://trello.com/[cb]{1}.*$") {
 /**
-* Trello Solarized Dark Grey v0.4 (2017-12-06)
+* Trello Solarized Dark Grey v0.5 (2017-12-07)
 *
 * https://userstyles.org/styles/125265/trello-solarized-dark-grey
 * https://github.com/ristomatti/trello-solarized-dark
@@ -154,7 +154,7 @@ hr {
 
 /* Black */
 .card-label-black {
-	background-color: #999 !important;
+	background-color: #141414 !important;
 }
 
 /* Orange */
@@ -167,6 +167,12 @@ hr {
 *[style*="background-color: rgb(0, 174, 204)"],
 .card-label-cyan {
 	background-color: #2aa198 !important;
+}
+
+/* Base00 (lime) */
+*[style*="background-color: #51e898"],
+.card-label-lime {
+   background-color: #657b83 !important;
 }
 
 /* Grey tile background */
