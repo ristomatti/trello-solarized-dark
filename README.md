@@ -16,6 +16,11 @@ preview](https://raw.githubusercontent.com/ristomatti/trello-solarized-dark/mast
 
 ## Changelog
 
+#### Version 0.6
+
+- Card detail view links
+- Card detail view comments
+
 #### Version 0.5
 
 - Map lime color to base00

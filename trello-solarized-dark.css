@@ -1,6 +1,6 @@
 @-moz-document url("https://trello.com/"), regexp("^https?://trello.com/[cb]{1}.*$") {
 /**
-* Trello Solarized Dark Grey v0.5 (2017-12-07)
+* Trello Solarized Dark Grey v0.6 (2018-08-28)
 *
 * https://userstyles.org/styles/125265/trello-solarized-dark-grey
 * https://github.com/ristomatti/trello-solarized-dark
@@ -8,7 +8,7 @@
 * The MIT License (MIT)
 * https://opensource.org/licenses/MIT
 *
-* (c) 2017 Ristomatti Airo <ristomatti@kallio.io>
+* (c) 2018 Ristomatti Airo <ristomatti@kallio.io>
 */
 
 /* Main area */
@@ -109,6 +109,23 @@ hr {
 	background-color: #212121;
 }
 
+.card-detail-window .action-comment {
+    background-color: #212121;
+    color: #93a1a1;
+}
+
+.card-detail-window a {
+    color: #268bd2;
+    text-decoration: none;
+}
+
+.card-detail-window a:hover {
+    color: #eee8d5;
+}
+
+.card-detail-window a:visited {
+    color: #6c71c4;
+}
 
 /* Solarized colors */
 
