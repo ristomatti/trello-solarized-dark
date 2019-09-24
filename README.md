@@ -9,6 +9,11 @@ Schoonover.
 2. Install theme from
    [userstyles.org](https://userstyles.org/styles/125265/trello-solarized-dark-grey)
 
+or
+
+2. Install theme from
+   [github.com](https://raw.githubusercontent.com/ristomatti/trello-solarized-dark/master/trello-solarized-dark.user.css)
+
 ## Preview
 
 ![Trello Solarized Dark Grey
