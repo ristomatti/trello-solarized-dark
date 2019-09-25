@@ -1,6 +1,17 @@
+/* ==UserStyle==
+@name         Trello Solarized Dark Grey
+@version      0.6.0
+@description  Trello board dark user style inspired by Ethan Schoonover's Solarized Dark color palette.
+@namespace    https://github.com/ristomatti/trello-solarized-dark
+@author       Ristomatti Airo
+@homepageURL  https://github.com/ristomatti/trello-solarized-dark
+@supportURL   https://github.com/ristomatti/trello-solarized-dark/issues
+@updateURL    https://raw.githubusercontent.com/ristomatti/trello-solarized-dark/master/trello-solarized-dark.user.css
+==/UserStyle== */
+
 @-moz-document url("https://trello.com/"), regexp("^https?://trello.com/[cb]{1}.*$") {
 /**
-* Trello Solarized Dark Grey v0.6 (2018-08-28)
+* Trello Solarized Dark Grey
 *
 * https://userstyles.org/styles/125265/trello-solarized-dark-grey
 * https://github.com/ristomatti/trello-solarized-dark
